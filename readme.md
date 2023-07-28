@@ -2,61 +2,7 @@
 <html lang="en">
 
 <head>
-   <style>
-  body {
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-  margin: 0;
-  padding: 0;
-}
-
-header {
-  background-color: #007bff;
-  color: #fff;
-  padding: 20px;
-  text-align: center;
-}
-
-main {
-  padding: 20px;
-}
-
-section {
-  margin-bottom: 30px;
-}
-
-h1 {
-  margin: 0;
-  font-size: 32px;
-}
-
-h2 {
-  margin: 0 0 10px;
-  font-size: 24px;
-}
-
-p {
-  margin: 0 0 20px;
-}
-
-pre {
-  margin: 0;
-  background-color: #f5f5f5;
-  padding: 10px;
-  overflow-x: auto;
-}
-
-code {
-  font-family: "Courier New", monospace;
-}
-
-footer {
-  background-color: #f5f5f5;
-  padding: 10px;
-  text-align: center;
-}
-
-</style>
+   
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Card Payment Page - README</title>
