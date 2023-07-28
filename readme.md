@@ -15,22 +15,22 @@
   </header>
 
   <main>
-    <section>
+    
       <h2>About</h2>
       <p>
         This is a React component that provides a simple card payment page with options to pay using Stripe,
         PayPal, or Payoneer. Users can enter the payment amount and choose their preferred payment method.
       </p>
-    </section>
+    
 
-    <section>
+    
       <h2>Installation</h2>
       <pre><code>
 npm install react-stripe-checkout react-paypal-express-checkout
       </code></pre>
       <p>Copy the <code>CardPaymentPage.js</code> file to your <code>src/components</code> directory and import it
         into your project.</p>
-    </section>
+    
 
     <section>
       <h2>Usage</h2>
