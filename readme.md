@@ -24,7 +24,7 @@
       <li>Copy the <code>CardPaymentPage.js</code> file to your <code>src/components</code> directory.</li>
       <li>Install the required dependencies:</li>
     </ol>
-    <pre><code>npm install react-stripe-checkout react-paypal-express-checkout</code></pre>
+    <pre><code>npm install stripe react-stripe-checkout react-paypal-express-checkout --legacy-peer-deps</code></pre>
     <p>Import the component and its associated CSS file:</p>
     <pre><code>
 import React from "react";
@@ -117,7 +117,7 @@ export default App;
 
   <div>
     <p>Feel free to modify and extend this component to suit your specific payment needs. Happy coding!</p>
-    <p>Contact: your.email@example.com</p>
+    <p>Contact: wahabmazhar60@gmail.com</p>
   </div>
 </body>
 
