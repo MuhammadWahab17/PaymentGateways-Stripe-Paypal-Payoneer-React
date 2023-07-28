@@ -21,7 +21,7 @@
     <h2>Installation and Setup</h2>
     <ol>
       <li>Ensure you have React and Node.js installed in your project.</li>
-      <li>Copy the <code>CardPaymentPage.js</code> file to your <code>src/components</code> directory.</li>
+      <li>Copy the <code>component folder</code> to your <code>project</code> directory.</li>
       <li>Install the required dependencies:</li>
     </ol>
     <pre><code>npm install stripe react-stripe-checkout react-paypal-express-checkout --legacy-peer-deps</code></pre>
@@ -29,7 +29,6 @@
     <pre><code>
 import React from "react";
 import CardPaymentPage from "./components/CardPaymentPage";
-import "./CardPaymentPage.css";
     </code></pre>
   </div>
 
